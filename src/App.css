@@ -7,6 +7,53 @@
   pointer-events: none;
 }
 
+
+.formtest {
+ margin-top: 1%;
+ 
+}
+.maindiv {
+  width: 30.333%;
+  float: left;
+  border: 1px solid black;
+  padding: 10Px
+  
+ 
+}
+label{
+  display: block;
+}
+
+.body {
+  background-color: #61dafb
+}
+.body1 {
+  background-color: bisque
+}
+.body2 {
+  background-color: black
+}
+
+
+#appBar{
+width: 70%;
+/* float: left */
+}
+#sideBar{
+width: 30%;
+/* float:  right; */
+}
+.pbox{
+  display: block;
+  border: 1px solid black;
+  background-image: url("./image/light.jpg");
+  width:800px;
+  height:500px
+}
+.pstyle{
+  color:red
+}
+
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
