@@ -1,0 +1,17 @@
+{
+    "dummyData":[
+        {
+            "email":"test1@gmail.com",
+            "password":"test11@"
+        },
+        {
+            "email":"rashmiyaligar15@gmail.com",
+            "password":"123@"
+        },
+        {
+            "email":"test12@gmail.com",
+            "password":"test12@"
+        }
+       
+    ]
+}
